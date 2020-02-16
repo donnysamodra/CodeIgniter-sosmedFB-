@@ -1,0 +1,4 @@
+Contoh Program web sederhana berbasis CI 
+untuk pengaturan DB ubah di application-config-database.php 
+ganti hostname, username , password , database sesuai dengan format 
+DB yang dibuat
